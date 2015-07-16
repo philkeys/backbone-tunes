@@ -1,3 +1,4 @@
-# Backbone Scaffold
+# Backbone Tunes App
 
-A simple repository to help beginners scaffold a basic backbone web application / website.  Please feel free to contribute!
+Practice using backbone to make an app for class
+
